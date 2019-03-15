@@ -1,0 +1,2 @@
+# uranus
+Django base project
